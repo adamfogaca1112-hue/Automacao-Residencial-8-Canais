@@ -8,7 +8,8 @@ Próximos passos já planejados: interface web + app Android.
 
 ## Demonstração em vídeo / Wokwi + foto
 https://wokwi.com/projects/449183118725826561
-<img width="951" height="645" alt="image" src="https://github.com/user-attachments/assets/388a1654-e1d2-4a0c-a3da-4f4e7b8f6532" />
+<img width="625" height="473" alt="image" src="https://github.com/user-attachments/assets/af513a4a-9a80-44f8-a56e-162020a2ad9e" />
+
 
 ## Como usar (super simples)
 1. Abra o Serial Monitor (115200 baud)
